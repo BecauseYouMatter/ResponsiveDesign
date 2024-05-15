@@ -51,8 +51,8 @@ div{
   display: inline-block;
   width: 45vw;
   
-  margin: 5px;
-  padding: 2px;
+  margin: 0px;
+  padding: 0px;
 }
  img {
     max-height: 30vh;
@@ -63,8 +63,8 @@ div{
   display: inline-block;
   width: 30vw;
   
-  margin: 5px;
-  padding: 2px;
+  margin: 0px;
+  padding: 0px;
 }
  img {
     max-height: 30vh;
